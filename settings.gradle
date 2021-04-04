@@ -1,0 +1,4 @@
+include ':myLoginView'
+include ':mybanner'
+include ':app'
+rootProject.name = "XierBanner"
